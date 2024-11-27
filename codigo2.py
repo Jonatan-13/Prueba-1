@@ -1,1 +1,1 @@
-print("qwertyuiop", "asdfghjklñ", "zxcvbnm")
+print()
