@@ -1,4 +1,4 @@
-def func(a, b):
-    return sum(a, b)
+def func(*nums)):
+    return sum(nums)
 
-print(func(7, -2))
+print(func(7, -2, 8, 4, 5, -9))
